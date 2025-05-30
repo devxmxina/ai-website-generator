@@ -1,0 +1,13 @@
+Copyright (c) 2025 Inga Aritenco
+
+This software is provided **free of charge for educational and non-commercial use only**.
+
+Permission is hereby granted to any student, researcher, or individual to use, copy, modify, or distribute this code **for non-commercial educational purposes**, subject to the following conditions:
+
+1. **Commercial use is strictly prohibited** without explicit written permission from the author.
+2. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the software.
+3. Modifications and derivative works must also retain this license and may not be used for commercial purposes.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+For commercial licensing requests, please contact: [your email or GitHub username]
